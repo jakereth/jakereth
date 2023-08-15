@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**jakereth/jakereth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  I’m currently working on my Bachelors Degree in Computer Science from Southern New Hampshire University. 
 
-Here are some ideas to get you started:
+### 🌱 I’m currently learning coding with Python, Database structuring with SQL, and app developement. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 I’m looking to collaborate on any projects with an opportunity to learn and refine my skills in this field. I'm enthusiastic about learning new technology and how to operate different systems, so I have a desire to work on Open Source Projects. 
+
+### 🤔 I’m looking for help with any opportunities with growth, whether that be an internship or any potential position for learning. 
+
+### 📫 How to reach me: I check my email daily so if there are any inquiries I am easily reachable at jakereth@gmail.com
+
+### ⚡ Fun fact: I initially wanted to get into this field solely for game developement because I enjoyed the amount of creative possibilities that are available in game design. Shortly after I became more and more intrigued with different aspects of computer science and have enjoyed every class related to this field. 
+
