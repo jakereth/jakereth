@@ -2,7 +2,7 @@
 
 ###  I’m currently working on my Bachelors Degree in Computer Science from Southern New Hampshire University. 
 
-### 🌱 I’m currently learning coding with Python, Database structuring with SQL/MYSQL, and app developement with Java. 
+### 🌱 Languages I currently am proficient with: Python, SQL/MYSQL, and Java. 
 
 ### 👯 I’m looking to collaborate on any projects with an opportunity to learn and refine my skills in this field. I'm enthusiastic about learning new technology and how to operate different systems, so I have a desire to work on Open Source Projects. 
 
