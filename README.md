@@ -6,7 +6,7 @@
 
 ### 👯 I’m looking to collaborate on any projects with an opportunity to learn and refine my skills in this field. I'm enthusiastic about learning new technology and how to operate different systems, so I have a desire to work on Open Source Projects. 
 
-### 🤔 I’m looking for help with any opportunities of growth, whether that be an internship or any potential position for learning. Transferring over from the medical field I simply have the desire to get my foot in the door and work towards a new career. 
+### 🤔 I’m looking for any opportunities of growth, whether that be an internship or any potential position for learning. Transferring over from the medical field I simply have the desire to get my foot in the door and work towards a new career. 
 
 ### 📫 How to reach me: I check my email daily so if there are any inquiries I am easily reachable at jakereth@gmail.com
 
